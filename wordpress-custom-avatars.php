@@ -65,7 +65,7 @@ function wavatar_comment_author ($args)
 if(!validate_gravatar($comment->comment_author_email)) {
 	$attr = parse_attributes($args);
 
-	return "<img class='wavatar' src='".WP_PLUGIN_URL."/wp-randomavatars/images/".getImagesFromDir()."' width='".$attr."' height='".$attr."' alt='Wavatar' />";
+	return "<img class='wavatar' src='".WP_PLUGIN_URL."/wordpress-custom-avatars-plugin/images/".getImagesFromDir()."' width='".$attr."' height='".$attr."' alt='Wavatar' />";
 } else {
 	return $args;
 }
