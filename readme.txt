@@ -71,7 +71,7 @@ When you have your icons, just add them to the wp-randomavatars/images folder in
 
 == Screenshots ==
 
-1. Shows the random gravatar. Screenshot01.png
+1. Shows the random gravatar. 
 
 == Frequently Asked Questions ==
 = How does it work? =
