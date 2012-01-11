@@ -1,10 +1,10 @@
 === Custom Avatars for Wordpress ===
 Contributors:  Fahd Murtaza
 Donate link: http://www.fahdmurtaza.com/wordpress-plugins/donate/
-Tags: toolbar, user, admin, admin bar, settings, Personal, options, hacks, plugin
+Tags: custom, avatar, random, new, fresh, avatars, comments, form, comment
 Requires at least: 3.3
 Tested up to: 3.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin will give visitors an
 avatar theme of your choice if they don't have a Gravatar
@@ -91,3 +91,6 @@ Just ask any of the developers at www.ielectrify.com or www.fahdmurtaza.com
 
 = 1.0 =
 No reason, simply install if you need and enjoy :)
+
+= 1.1 =
+Simpy update if you need the latest code. No functional changes. Just new tags added for repo search ease.
