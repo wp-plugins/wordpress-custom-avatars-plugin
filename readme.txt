@@ -1,5 +1,5 @@
 === Custom Avatars for Wordpress ===
-Contributors:  Fahd Murtaza, Sherice Jacob
+Contributors:  sherice, fahdi
 Donate link: http://www.fahdmurtaza.com/wordpress-plugins/donate/
 Tags: custom, avatar, random, new, fresh, avatars, comments, form, comment
 Requires at least: 3.3
@@ -11,7 +11,7 @@ avatar theme of your choice if they don't have a Gravatar
 
 
 == Description ==
-This plugin will give visitors an avatar theme of your choice if they don't have a Gravatar
+This plugin will give visitors an avatar theme of your choice if they don't have a Gravatar. Its a plugin developed by <a href="http://ielectrify.com">iElectrify</a> and <a href="http://www.fahdmurtaza.com">Fahd Murtaza</a>
 
 Simply install the wp-randomavatars plugin into your Wordpress plugins folder (/wp-content/plugins) and activate it via the Dashboard.
 
@@ -27,7 +27,7 @@ When you have your icons, just add them to the wp-randomavatars/images folder in
 Allow your visitors to
 * Use custom random avatars instead of the default gravatars i.e "Mystery Man" avatar we see everywhere. 
 
-= TROUBLESHOOTING: =
+= Troubleshooting: =
 * Please let me know if you run into any issues with this plugin by sending an email to info@fahdmurtaza.com or simply post on wordpress forum for this plugin.
 
 == Installation ==
@@ -42,7 +42,7 @@ avatar theme of your choice if they don't have a Gravatar
 If your Wordpress theme does not support avatars (rare), simply add this snippet of code
 where you want the avatars to appear:
 
-<?php get_avatar(); ?>
+'<?php get_avatar(); ?>'
 
 Icons should be sized at 48x48 pixels. You can use a free graphics viewer/resizer such as Irfanview at www.irfanview.com to do this.  To find themed icons for your blog, many of which are free for personal and commercial use, see www.iconfinder.net.
 
@@ -63,7 +63,7 @@ When you have your icons, just add them to the wp-randomavatars/images folder in
 If your Wordpress theme does not support avatars (rare), simply add this snippet of code
 where you want the avatars to appear:
 
-<?php get_avatar(); ?>
+'<?php get_avatar(); ?>'
 
 Icons should be sized at 48x48 pixels. You can use a free graphics viewer/resizer such as Irfanview at www.irfanview.com to do this.  To find themed icons for your blog, many of which are free for personal and commercial use, see www.iconfinder.net.
 
