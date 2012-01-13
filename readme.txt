@@ -42,7 +42,7 @@ avatar theme of your choice if they don't have a Gravatar
 If your Wordpress theme does not support avatars (rare), simply add this snippet of code
 where you want the avatars to appear:
 
-'<?php get_avatar(); ?>'
+`<?php get_avatar(); ?>`
 
 Icons should be sized at 48x48 pixels. You can use a free graphics viewer/resizer such as Irfanview at www.irfanview.com to do this.  To find themed icons for your blog, many of which are free for personal and commercial use, see www.iconfinder.net.
 
@@ -63,7 +63,7 @@ When you have your icons, just add them to the wp-randomavatars/images folder in
 If your Wordpress theme does not support avatars (rare), simply add this snippet of code
 where you want the avatars to appear:
 
-'<?php get_avatar(); ?>'
+`<?php get_avatar(); ?>`
 
 Icons should be sized at 48x48 pixels. You can use a free graphics viewer/resizer such as Irfanview at www.irfanview.com to do this.  To find themed icons for your blog, many of which are free for personal and commercial use, see www.iconfinder.net.
 
