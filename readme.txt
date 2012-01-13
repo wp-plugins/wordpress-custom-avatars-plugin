@@ -1,5 +1,5 @@
 === Custom Avatars for Wordpress ===
-Contributors:  Fahd Murtaza
+Contributors:  Fahd Murtaza, Sherice Jacob
 Donate link: http://www.fahdmurtaza.com/wordpress-plugins/donate/
 Tags: custom, avatar, random, new, fresh, avatars, comments, form, comment
 Requires at least: 3.3
